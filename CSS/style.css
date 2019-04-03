@@ -1,0 +1,26 @@
+html {
+  background-color: #1976D2;
+}
+
+h1 {
+  margin-block-end: 0;
+  display: inline-block;
+}
+
+ul {
+  display: inline-block;
+  padding-inline-start: 0;
+  margin: 0;
+  margin-block-end: 0;
+  margin-block-start: 0;
+}
+
+.Menu {
+  width: 200px;
+}
+
+.Social {
+  display: inline-block;
+  padding-left: 10px;
+  margin: 0;
+}
